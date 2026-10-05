@@ -1,8 +1,5 @@
 #include <Arduino.h>
-//#include "IR_CODES-505.h"     // 505 mã
-//#include "IR_CODES-541.h"     // 541 mã 
-//#include "IR_CODES-863.h"     // 863 mã
-#include "IR_CODES-1517.h"      // 1517 mã
+#include "IR_CODES-505.h"     // 505 mã
 #include <IRremoteESP8266.h>
 #include <IRsend.h>
 #include <esp_system.h>
