@@ -3,7 +3,7 @@ Tv-b-gone có webui (tổng hợp các mã từ tv-b-gone esp8266 và Flipper-IR
 
 # 🔌 Nối dây 🔌
 <img width="882" height="426" alt="646883191-e9ae0c24-5ff1-4e29-b4d9-9e08d57462c1" src="https://github.com/user-attachments/assets/49106477-5d47-4f05-91d8-0c66dbe2639a" />
-Đây là sơ đồ nối dây mặc định, có thể thay đổi trong cài đặt 
+Đây là sơ đồ nối dây mặc định, có thể thay đổi trong cài đặt (có thể bỏ trở 100ohm từ gpio đến transistor (không bắt buộc phải bỏ 😀))
 
 # ✨️ Tính năng ✨️
 Code TV-B-GONE này có các tính năng:
