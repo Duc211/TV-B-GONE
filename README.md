@@ -11,6 +11,6 @@ Code TV-B-GONE này có các tính năng:
 -  Thay đổi tên wifi (mặc định là TV-B-GONE)
 -  Thay đổi mật khẩu wifi (mặc định là không khóa)
 -  Thay đổi chủ đề sáng/tối và chủ đề màu
--  Thay đổi chân GPIO cho led hồng ngoại, nút bấm, led nháy trạng thái (mặc định là 21 9 8)
+-  Thay đổi chân GPIO cho led hồng ngoại, nút bấm, led nháy trạng thái (mặc định là 21  -  9   -   8)
 -  Sao lưu / khôi phục file cài đặt
 -  Cập nhật OTA để không phải nạp lại qua cổng usb
