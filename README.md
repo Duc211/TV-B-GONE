@@ -21,3 +21,5 @@ Code TV-B-GONE này có các tính năng:
 - .........................'partitions.bin' vào 0x8000
 - .........................'firmware.bin' vào 0x10000
 - Cập nhật OTA thì dùng file 'firmware.bin' (file chỉ chứa app),không phải 'firmware.factory.bin' (file có cả BL và partitions)
+
+- # Dự án có sử dụng AI
